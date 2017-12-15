@@ -9,7 +9,7 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 
 To run the application locally, first clone this repository with the following command.
 
-`git clone git@github.com:angrbrd/Burger.git`
+`git clone git@github.com:lavanya128/Burger.git`
 
 Next, install the application dependencies.
 
