@@ -13,8 +13,8 @@ To run the application locally, first clone this repository with the following c
 
 Next, install the application dependencies.
 
-`cd Burger
-npm install`
+`cd Burger`
+`npm install`
 
 Finally, run the node server locally.
 
